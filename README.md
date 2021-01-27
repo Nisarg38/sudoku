@@ -14,7 +14,7 @@ inseting the board and using back-tracking algorithm to find the solution of a g
 
 Using pygames taking input from the user and hence creating an interactive game.
 
-<img src="https://github.com/Nisarg38/sudoku/blob/master/assests/%232.png" width="200" height="400" />
+<img src="https://github.com/Nisarg38/sudoku/blob/master/assests/%232.png" width="450" height="350" />
 
 
 
